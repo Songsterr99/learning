@@ -1,0 +1,12 @@
+1 0 nothing
+2 0 nothing
+3 1 Dima
+4 0 nothing
+5 0 nothing
+6 0 nothing
+7 0 nothing
+8 0 nothing
+9 0 nothing
+10 0 nothing
+11 0 nothing
+12 1 Dasha
