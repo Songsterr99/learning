@@ -2,8 +2,8 @@
 //  main.swift
 //  Frequancy
 //
-//  Created by Veronichka Yastrebova on 4/4/18.
-//  Copyright © 2018 Veronichka Yastrebova. All rights reserved.
+//  Created by Vika Yastrebova on 4/4/18.
+//  Copyright © 2018 Vika Yastrebova. All rights reserved.
 //
 
 import Foundation
