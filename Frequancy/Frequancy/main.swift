@@ -2,8 +2,8 @@
 //  main.swift
 //  Frequancy
 //
-//  Created by Daniil Naumau on 4/4/18.
-//  Copyright © 2018 Daniil Naumau. All rights reserved.
+//  Created by Veronichka Yastrebova on 4/4/18.
+//  Copyright © 2018 Veronichka Yastrebova. All rights reserved.
 //
 
 import Foundation
